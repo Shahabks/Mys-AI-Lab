@@ -9,72 +9,67 @@
         <title>Mysolution - Lab AI Japan-Machine Learning</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        
-	<style>
-* {
-  box-sizing: border-box;
-}
+        <style>
+             * {
+                box-sizing: border-box;
+         }
+         body {
+         margin: 0;
+         font-family: Arial;
+         font-size: 17px;
+         }
 
-body {
-  margin: 0;
-  font-family: Arial;
-  font-size: 17px;
-}
+         #myVideo {
+         position: fixed;
+         right: 0;
+         bottom: 0;
+         min-width: 100%; 
+         min-height: 100%;
+         }
 
-#myVideo {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  min-width: 100%; 
-  min-height: 100%;
-}
+       .content {
+        position: fixed;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.5);
+        color: #f1f1f1;
+        width: 100%;
+        padding: 20px;
+        }
 
-.content {
-  position: fixed;
-  bottom: 0;
-  background: rgba(0, 0, 0, 0.5);
-  color: #f1f1f1;
-  width: 100%;
-  padding: 20px;
-}
+       #myBtn {
+       width: 200px;
+       font-size: 18px;
+       padding: 10px;
+       border: none;
+       background: #000;
+       color: #fff;
+       cursor: pointer;
+       }
 
-#myBtn {
-  width: 200px;
-  font-size: 18px;
-  padding: 10px;
-  border: none;
-  background: #000;
-  color: #fff;
-  cursor: pointer;
-}
-
-#myBtn:hover {
-  background: #ddd;
-  color: black;
-}
-</style>
+       #myBtn:hover {
+       background: #ddd;
+       color: black;
+       }
+      </style>
 	<video autoplay muted loop id="myVideo">
-  <source src="https://github.com/Shahabks/Mysolution-Lab-AI/blob/master/assets/images/video/biostorm.mp4" type="video/mp4">
-  Your browser does not support HTML5 video.
-</video>
-<div class="content">
-    <button id="myBtn" onclick="myFunction()">Pause</button>
-</div>
+                <source src="https://github.com/Shahabks/Mysolution-Lab-AI/blob/master/assets/images/video/biostorm.mp4" type="video/mp4">
+                Your browser does not support HTML5 video.
+        </video>
+     
+       <script>
+          var video = document.getElementById("myVideo");
+          var btn = document.getElementById("myBtn");
 
-<script>
-var video = document.getElementById("myVideo");
-var btn = document.getElementById("myBtn");
-
-function myFunction() {
-  if (video.paused) {
-    video.play();
-    btn.innerHTML = "Pause";
-  } else {
-    video.pause();
-    btn.innerHTML = "Play";
-  }
-}
-</script>
+             function myFunction() {
+                if (video.paused) {
+                      video.play();
+                        
+                 } else {
+                     video.pause();
+                     
+           }
+        }
+          </script>
 
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <!-- Compiled and minified CSS -->
