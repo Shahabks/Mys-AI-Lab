@@ -36,6 +36,6 @@ We design and develop **human-machine spoken language systems**.
 
 **Bold** and _Italic_ and `Code` text
 
-![Image](https://github.com/Shahabks/Thought-Speech-analysis-/blob/master/Lablogo.jpg)
+![Image](https://github.com/Shahabks/Mysolution-Lab-AI/blob/master/images/logo.png)
 ```
 
