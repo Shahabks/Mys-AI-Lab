@@ -27,6 +27,6 @@ and some of the research topics we are excited about:
 
 **Bold** and _Italic_ and `Code` text
 
-![Image](https://github.com/Shahabks/Sab-AI Lab-A/blob/master/images/logo.png)
+![Image](https://github.com/Shahabks/Sab-AI-Lab/blob/master/images/logon.jpg)
 ```
 
