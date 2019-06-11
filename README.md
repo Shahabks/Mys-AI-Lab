@@ -1,3 +1,5 @@
+![Image](https://github.com/Shahabks/Sab-AI-Lab/blob/master/images/logon.jpg)
+
 ## Welcome to Sab-AI Lab
 
 ### Sab-AI lab is a boutique AI and machine learning lab in Nagoya-Japan. 
@@ -20,13 +22,4 @@ and some of the research topics we are excited about:
 - art,
 - complex system behaviour 
 
-### Downloadable stand-alone packages
-   - Speaking Guess-Game: Pictures-Phrases (https://github.com/Shahabks/My-Pictures-Phrases-Guess-Game/releases)
-    - A Machine Learning Algorithm to predict your spoken language proficiency level
-
-
-**Bold** and _Italic_ and `Code` text
-
-![Image](https://github.com/Shahabks/Sab-AI-Lab/blob/master/images/logon.jpg)
 ```
-
