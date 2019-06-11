@@ -1,6 +1,6 @@
-## Welcome to Mysolutions Lab
+## Welcome to Mys-AI Lab
 
-### MYSOLUTIONS lab is a boutique AI and machine learning lab in Nagoya-Japan. 
+### MYS-AI lab is a boutique AI and machine learning lab in Nagoya-Japan. 
 ### We're aiming to be the most fun and innovative AI lab to help solve humanity’s problems..  
 
 We're architecturing algorithms for machine to transform data into knowledge. We bring together technologies in computational, cognitive, and behavioral sciences to better understand future human development processes.
